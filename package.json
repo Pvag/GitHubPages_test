@@ -1,0 +1,15 @@
+{
+  "name": "githubpages_test",
+  "version": "1.0.0",
+  "description": "a test for github pages",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "homepage": "https://pvag.gihub.io/githubpages_test",
+  "author": "Pvag",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
